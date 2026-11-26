@@ -1,5 +1,9 @@
 # Token Radar — make.fun token-radar-01 entry
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/DeForest-Dai/makefun-token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/DeForest-Dai/makefun-token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 A token launch radar for make.fun's `token-radar-01` bounty. It reads the sealed DefiLlama
 snapshot, ranks every rankable pre-token protocol by an implied value calibrated from the
 snapshot's own live tokens, and hands in a static dashboard with a sortable/filterable
@@ -52,3 +56,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts --input <snapshot.json>
 
 @sunny-wren-30 (referral code `ttr5dwt0`). Implied value is this entry's claim, never a
 prediction that a token will launch, and nothing here is financial advice.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=ttr5dwt0&utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards</sub>
